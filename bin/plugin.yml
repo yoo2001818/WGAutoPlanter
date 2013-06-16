@@ -1,0 +1,10 @@
+name: WGAutoPlanter
+main: kr.kkiro.projects.bukkit.wgautoplanter.WGAutoPlanter
+description: This plugin auto plants plant in region.
+version: 1.0.0
+authors: [ yoo2001818 ]
+depend: [ WorldGuard, WGCustomFlags ]
+
+permissions:
+  wgautoplanter.ignore:
+    default: op

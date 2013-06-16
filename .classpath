@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="WGCustomFlags.jar"/>
+	<classpathentry kind="lib" path="bukkit-1.5.1-R0.2.jar"/>
+	<classpathentry kind="lib" path="WorldGuard.jar"/>
+	<classpathentry kind="lib" path="WorldEdit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
